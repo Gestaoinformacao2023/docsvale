@@ -18,12 +18,10 @@
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
 
-## Layout da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
 
 
 ### Tópicos 
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
@@ -33,9 +31,12 @@
 
 :small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
 ... 
+##<a id="Layout da Aplicação"></a>Descrição do projeto
+
+> Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
 
 
-## <a id="descrição-do-projeto"></a>Descrição do projeto 
+## <a id="descrição-do-projeto"></a>layout-da-aplicação 
 
 <p align="justify">
    Este documento visa detalhar todos os objetivos do Projeto Análise do Covid Mundial de um ponto de vista técnico, listando as soluções, premissas e atividades de execução durante a elaboração do projeto.
