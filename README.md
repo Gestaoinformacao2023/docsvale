@@ -155,17 +155,7 @@ Agora você pode copiar este conteúdo e colar no README ou qualquer outro arqui
 
 
 
-bash
-Copy code
-### cd [nome-do-diretorio-do-projeto]
-Execute os testes:
 
-bash
-Copy code
-npm test
-Lembre-se: os comandos específicos para rodar a aplicação e os testes podem variar com base na configuração e nas ferramentas usadas no projeto. Certifique-se de consultar a documentação do projeto para obter instruções detalhadas.
-
-Você pode copiar e colar o conteúdo acima em seu arquivo README.md no GitHub para fornecer instruções detalhadas para colaboradores e usuários.
 
 
 
