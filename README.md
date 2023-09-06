@@ -64,13 +64,11 @@
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Layout ou Deploy da Aplicação :dash:
+## Layout da Aplicação :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
 
-... 
 
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
