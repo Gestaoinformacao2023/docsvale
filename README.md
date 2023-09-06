@@ -165,7 +165,7 @@ marcell https://ibb.co/pb2NQCL
 ### Usuários: 
 
 |name|email|avatar|
-| -------- |-------- |-------- |-------- |-------- |
+| -------- |-------- |-------- |
 |Flavio Assis|flavio.assis@vale.com|true|https://ibb.co/5cX4rFV|
 |Marcell Felipe|C0669610@vale.com|true|https://ibb.co/pb2NQCL|
 |Marcos Lourenço|marcos.lourenco@vale.com|true|https://ibb.co/T4JPzwy|
