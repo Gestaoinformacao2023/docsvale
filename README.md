@@ -1,6 +1,6 @@
 # Modelo de documentação
 
-<h1>Titulo ou Arte do Projeto</h1> 
+<h1>Modelo de documentação</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Databricks&message=platform&color=orange&style=for-the-badge&logo=databricks"/>
