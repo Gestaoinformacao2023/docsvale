@@ -22,24 +22,21 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 ... 
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
-## Descrição do projeto 
+## <a id="descrição-do-projeto"></a>Descrição do projeto 
 
 <p align="justify">
-   Este documento visa detalhar todos os objetivos do Projeto Análise do Covid Mundial de um ponto de
-vista técnico, listando as soluções, premissas e atividades de execução durante a elaboração do projeto.
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+   Este documento visa detalhar todos os objetivos do Projeto Análise do Covid Mundial de um ponto de vista técnico, listando as soluções, premissas e atividades de execução durante a elaboração do projeto.
 </p>
+
+## <a id="pré-requisitos"></a>Pré-requisitos
+
+... [Aqui você pode continuar com o conteúdo da seção Pré-requisitos]
 
 ## Funcionalidades
 
