@@ -164,12 +164,11 @@ marcell https://ibb.co/pb2NQCL
 
 ### Usuários: 
 
-| name | email | avatar | Image Link |
+| name | email | 
 | ----- | ----- | ------ | ---------- |
-| Flavio Assis | flavio.assis@vale.com | true | ![Flavio's Avatar](https://ibb.co/5cX4rFV) |
-| Marcell Felipe | C0669610@vale.com | true | ![Marcell's Avatar](https://ibb.co/pb2NQCL) |
-| Marcos Lourenço | marcos.lourenco@vale.com | true | ![Marcos's Avatar](https://ibb.co/T4JPzwy) |
-...
+| Flavio Assis | flavio.assis@vale.com | 
+| Marcell Felipe | C0669610@vale.com | 
+| Marcos Lourenço | marcos.lourenco@vale.com | 
 
 
 Se quiser, coloque uma amostra do banco de dados 
