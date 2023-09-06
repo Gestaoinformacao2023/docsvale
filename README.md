@@ -36,9 +36,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-   Este documento visa detalhar todos os objetivos do Projeto Análise do Covid Mundial de um ponto de
-vista técnico, listando as soluções, premissas e atividades de execução durante a elaboração do projeto.
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+   Este documento visa detalhar todos os objetivos do Projeto Análise do Covid Mundial de um ponto de vista técnico, listando as soluções, premissas e atividades de execução durante a elaboração do projeto.
+   &#x1F539; <a href="#descrição-do-projeto">Descrição do projeto</a>
 </p>
 
 ## Funcionalidades
