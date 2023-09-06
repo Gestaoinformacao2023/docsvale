@@ -22,20 +22,15 @@
 
 ### Tópicos 
 :small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
-
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
 :small_blue_diamond: [Origem e Especificação dos Dados](#origem-e-especificação-dos-dados)
-
 :small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
 ... 
 
-##<a id="Layout da Aplicação"></a>layout-da-aplicação
+## Layout da Aplicação
 
-<p Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
-</p>
+[Link do deploy da aplicação. Exemplo com netlify.](https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
 
 ## <a id="descrição-do-projeto"></a>layout-da-aplicação 
 
