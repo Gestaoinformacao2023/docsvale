@@ -219,8 +219,9 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 Liste o time responsável pelo desenvolvimento do projeto
 
+| [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/df4cc9be-4a56-40bf-b72a-9958fa032ccf" width=115><br><sub>Flávio</sub>](https://github.com/link-do-perfil-do-flavio) | [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/8fbcf15b-585c-422e-b360-209ce3cae93c" width=115><br><sub>Marcell</sub>](https://github.com/link-do-perfil-do-marcell) | [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/484c1522-115d-4f26-ab7c-e799453fb454" width=115><br><sub>Marcos</sub>](https://github.com/link-do-perfil-do-marcos) |
+| :---: | :---: | :---: |
 
- [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/df4cc9be-4a56-40bf-b72a-9958fa032ccf" width=115><br><sub>Flávio</sub>](https://github.com/link-do-perfil-do-usuario) | [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/8fbcf15b-585c-422e-b360-209ce3cae93c" width=115><br><sub>Marcell</sub>](https://github.com/link-do-perfil-do-usuario) | [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/484c1522-115d-4f26-ab7c-e799453fb454" width=115><br><sub>Marcos</sub>](https://github.com/link-do-perfil-do-usuario) |
 
 
 
