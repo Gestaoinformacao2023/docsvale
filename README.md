@@ -84,7 +84,7 @@ Liste todas as dependencias e libs que o usuário deve ter instalado na máquina
 No terminal, clone o projeto: 
 
 ```
-git clone [https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator](https://github.com/Gestaoinformacao2023/docsvale)
+[https://github.com/Gestaoinformacao2023/docsvale]
 ```
 
 ... 
