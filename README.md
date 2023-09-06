@@ -77,7 +77,7 @@
 
 ...
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
+
 
 ## Como rodar a aplicação :arrow_forward:
 
@@ -100,7 +100,8 @@ No terminal, clone o projeto:
 1. Abra o terminal ou prompt de comando em sua máquina.
 2. Navegue até o diretório onde deseja clonar o repositório.
 3. Execute o comando:
-###git clone https://github.com/Gestaoinformacao2023/docsvale
+ 
+### git clone https://github.com/Gestaoinformacao2023/docsvale
 
 ## 🔄 Usando o Git para Versionamento
 
@@ -110,10 +111,13 @@ No terminal, clone o projeto:
 4. `git push`: Envie seus commits para o repositório remoto no GitHub.
 5. `git pull`: Use esse comando para buscar as últimas alterações do repositório remoto.
    
-# git clone https://github.com/Gestaoinformacao2023/docsvale
+### git clone https://github.com/Gestaoinformacao2023/docsvale
+
 # 🛠️ Dependências e Bibliotecas
 
 Antes de rodar a aplicação, certifique-se de instalar todas as dependências e bibliotecas necessárias.
+
+### git clone https://github.com/Gestaoinformacao2023/docsvale
 
 # 🚀 Como rodar a aplicação
 
@@ -122,28 +126,28 @@ Antes de rodar a aplicação, certifique-se de instalar todas as dependências e
 
 2. **Navegue até o diretório do projeto**:
 
-# cd [nome-do-diretorio-do-projeto]
+### cd [nome-do-diretorio-do-projeto]
 
 3. **Instale as dependências**:
 
-# npm install
+### npm install
 
 
 4. **Execute a aplicação**:
 
-# npm start
+### npm start
 
 
 # 🧪 Como rodar os testes
 
 1. **Navegue até o diretório do projeto (se ainda não estiver nele)**:
 
-# cd [nome-do-diretorio-do-projeto]
+### cd [nome-do-diretorio-do-projeto]
 
 
 2. **Execute os testes**:
 
-# npm test
+### npm test
 
 Lembre-se: os comandos específicos para rodar a aplicação e os testes podem variar com base na configuração e nas ferramentas usadas no projeto. Certifique-se de consultar a documentação do projeto para obter instruções detalhadas.
 
