@@ -23,10 +23,9 @@
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
+:small_blue_diamond: [Origem e Especificação dos Dados](#origem-dados)
 ... 
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## <a id="descrição-do-projeto"></a>Descrição do projeto 
 
@@ -38,8 +37,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 <p align="justify">
   Com o objetivo de quantificar a progressão da COVID-19 em âmbito global, nos foi solicitada uma análise exploratória dos dados. Mapeamos o contágio e avanço da doença mundialmente, classificando os principais países de acordo com critérios como sexo e raça. Além disso, detalhamos as estatísticas por país, separando-as por estados e regiões e destacando os principais eventos em uma linha do tempo.
 </p>
+## <a id="#origem-dados"></a>Origem e Especificação dos Dados
 
-... [Aqui você pode continuar com o conteúdo da seção Pré-requisitos]
 
 ## Funcionalidades
 
