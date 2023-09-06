@@ -138,7 +138,7 @@ Antes de rodar a aplicação, certifique-se de instalar todas as dependências e
 
 1. **Navegue até o diretório do projeto (se ainda não estiver nele)**:
 
-cd [nome-do-diretorio-do-projeto]
+# cd [nome-do-diretorio-do-projeto]
 
 
 2. **Execute os testes**:
