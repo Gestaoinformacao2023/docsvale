@@ -7,10 +7,14 @@
   <img src="https://img.shields.io/static/v1?label=Python%20SQL&message=library&color=blue&style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/static/v1?label=Spark%20SQL&message=framework&color=yellow&style=for-the-badge&logo=apache-spark"/>
   <img src="https://img.shields.io/static/v1?label=PySpark&message=framework&color=blue&style=for-the-badge&logo=apache-spark"/>
+  <img src="https://img.shields.io/static/v1?label=Power%20Apps&message=framework&color=blue&style=for-the-badge&logo=microsoft"/>
+  <img src="https://img.shields.io/static/v1?label=Power%20Automate&message=tool&color=blue&style=for-the-badge&logo=microsoft"/>
+  <img src="https://img.shields.io/static/v1?label=Power%20BI&message=tool&color=yellow&style=for-the-badge&logo=power-bi"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
+
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
 
