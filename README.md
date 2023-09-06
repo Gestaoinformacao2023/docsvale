@@ -228,6 +228,6 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [Vale]() (Vale)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2023 - Modelo de documentação
