@@ -31,10 +31,11 @@
 
 :small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
 ... 
+
 ##<a id="Layout da Aplicação"></a>Descrição do projeto
 
-> Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
-
+<p Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
+</p>
 
 ## <a id="descrição-do-projeto"></a>layout-da-aplicação 
 
