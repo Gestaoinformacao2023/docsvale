@@ -90,7 +90,7 @@ No terminal, clone o projeto:
 ... 
 Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
 
-🚀 Usando o Git para Clonar e Versionar no GitHub
+##🚀 Usando o Git para Clonar e Versionar no GitHub
 Git é uma ferramenta essencial de controle de versão distribuído. Ele permite aos desenvolvedores rastrear e gerenciar as mudanças no código ao longo do tempo. Abaixo, detalharei como você pode clonar um projeto e gerenciar seu código usando Git e GitHub.
 
 🔍 Pré-requisitos:
