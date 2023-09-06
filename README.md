@@ -54,25 +54,25 @@
    Jupyter Notebook e Microsoft Power Bi.
 </p>
 
-## Funcionalidades
+## Pré-requisitos
 
-:heavy_check_mark: Funcionalidade 1  
-
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+:warning: Certifique-se de usar para desenvolvimento [Python](https://www.python.org/downloads/) e [Databricks](https://databricks.com/).
 
 ## Layout da Aplicação :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify: (https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
 
+## Modelo da Arquitetura Sugerida
+
+<p align="justify">
+  Com o objetivo de quantificar a progressão da COVID-19 em âmbito global, nos foi solicitada uma análise exploratória dos dados. Mapeamos o contágio e avanço da doença mundialmente, classificando os principais países de acordo com critérios como sexo e raça. Além disso, detalhamos as estatísticas por país, separando-as por estados e regiões e destacando os principais eventos em uma linha do tempo.
+</p>
 
 
-## Pré-requisitos
 
-:warning: Certifique-se de usar para desenvolvimento [Python](https://www.python.org/downloads/) e [Databricks](https://databricks.com/).
+
+
+
 
 
 ...
