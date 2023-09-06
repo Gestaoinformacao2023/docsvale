@@ -30,6 +30,8 @@
 :small_blue_diamond: [Origem e Especificação dos Dados](#origem-e-especificação-dos-dados)
 
 :small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
+
+:small_blue_diamond: [Modelo da Arquitetura Sugerida](#modelo-da-arquitetura-sugerida)
 ... 
 
 ## Layout da Aplicação
@@ -66,10 +68,11 @@
 
 
 
-## Modelo da Arquitetura Sugerida
+## <a id="modelo-da-arquitetura-sugerida"></a>Modelo da Arquitetura Sugerida
 
 <p align="justify">
-  Com o objetivo de quantificar a progressão da COVID-19 em âmbito global, nos foi solicitada uma análise exploratória dos dados. Mapeamos o contágio e avanço da doença mundialmente, classificando os principais países de acordo com critérios como sexo e raça. Além disso, detalhamos as estatísticas por país, separando-as por estados e regiões e destacando os principais eventos em uma linha do tempo.
+<img width="414" alt="image" src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/21b43255-daa7-4dd8-b0f7-7cc52455449e">
+
 </p>
 
 
