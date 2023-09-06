@@ -192,8 +192,10 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+- [SQL](https://www.w3schools.com/sql/)
+- [Databricks](https://databricks.com/)
+- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+
 
 ...
 
@@ -218,7 +220,15 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 Liste o time responsável pelo desenvolvimento do projeto
 
 | [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
-| :---: | :---: | :---: 
+| :---: | :---: | :---: |
+| [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/df4cc9be-4a56-40bf-b72a-9958fa032ccf" width=115><br><sub>Nome do Usuário</sub>](https://github.com/link-do-perfil-do-usuario) | [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/8fbcf15b-585c-422e-b360-209ce3cae93c" width=115><br><sub>Nome do Usuário</sub>](https://github.com/link-do-perfil-do-usuario) | [<img src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/484c1522-115d-4f26-ab7c-e799453fb454" width=115><br><sub>Nome do Usuário</sub>](https://github.com/link-do-perfil-do-usuario) |
+
+
+
+![image](https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/df4cc9be-4a56-40bf-b72a-9958fa032ccf)
+![image](https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/8fbcf15b-585c-422e-b360-209ce3cae93c)
+![image](https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/484c1522-115d-4f26-ab7c-e799453fb454)
+
 
 ## Licença 
 
