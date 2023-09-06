@@ -61,7 +61,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
-:warning: Certifique-se de ter [Python](https://www.python.org/downloads/) e [Databricks](https://databricks.com/) configurados em sua máquina.
+:warning: Certifique-se de usar para desenvolvimento [Python](https://www.python.org/downloads/) e [Databricks](https://databricks.com/).
 
 
 ...
