@@ -32,7 +32,7 @@
 
 [Link do deploy da aplicação. Exemplo com netlify.](https://colab.research.google.com/drive/1KWrzLNsES9QYDs36YjI5uD5F8qBv-mhJ?usp=sharing)
 
-## <a id="descrição-do-projeto"></a>layout-da-aplicação 
+## <a id="descrição-do-projeto"></a>descrição-do-projeto
 
 <p align="justify">
    Este documento visa detalhar todos os objetivos do Projeto Análise do Covid Mundial de um ponto de vista técnico, listando as soluções, premissas e atividades de execução durante a elaboração do projeto.
