@@ -225,10 +225,6 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 
 
-![image](https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/df4cc9be-4a56-40bf-b72a-9958fa032ccf)
-![image](https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/8fbcf15b-585c-422e-b360-209ce3cae93c)
-![image](https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/484c1522-115d-4f26-ab7c-e799453fb454)
-
 
 ## Licença 
 
