@@ -245,11 +245,6 @@ marcell https://ibb.co/pb2NQCL
 | Marcos Lourenço | marcos.lourenco@vale.com | 
 
 
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
@@ -258,13 +253,7 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 
 
-...
 
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
 
 ## Tarefas em aberto
 
