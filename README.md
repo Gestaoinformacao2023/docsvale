@@ -25,6 +25,8 @@
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Origem e Especificação dos Dados](#origem-e-especificação-dos-dados)
+
+:small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
 ... 
 
 
@@ -46,7 +48,11 @@
    Teremos um arquivo Excel que foi obtido pelo Kaggle. Você pode acessar e baixar o dataset diretamente a partir deste <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report" target="_blank">link</a>. Os arquivos disponíveis estão no formato Xlsx e devem seguir um layout específico, que está detalhadamente especificado neste documento.
 </p>
 
+## <a id="ambiente-de-desenvolvimento"></a>Ambiente de Desenvolvimento
 
+<p align="justify">
+   Jupyter Notebook e Microsoft Power Bi.
+</p>
 
 ## Funcionalidades
 
