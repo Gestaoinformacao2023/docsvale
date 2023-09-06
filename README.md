@@ -100,7 +100,7 @@ No terminal, clone o projeto:
 1. Abra o terminal ou prompt de comando em sua máquina.
 2. Navegue até o diretório onde deseja clonar o repositório.
 3. Execute o comando:
-
+git clone https://github.com/Gestaoinformacao2023/docsvale
 
 ## 🔄 Usando o Git para Versionamento
 
@@ -109,7 +109,8 @@ No terminal, clone o projeto:
 3. `git commit -m "Sua mensagem descritiva aqui"`: Crie um novo "commit" com os arquivos.
 4. `git push`: Envie seus commits para o repositório remoto no GitHub.
 5. `git pull`: Use esse comando para buscar as últimas alterações do repositório remoto.
-
+   
+git clone https://github.com/Gestaoinformacao2023/docsvale
 # 🛠️ Dependências e Bibliotecas
 
 Antes de rodar a aplicação, certifique-se de instalar todas as dependências e bibliotecas necessárias.
@@ -117,7 +118,7 @@ Antes de rodar a aplicação, certifique-se de instalar todas as dependências e
 # 🚀 Como rodar a aplicação
 
 1. **Clone o projeto**:
-
+git clone https://github.com/Gestaoinformacao2023/docsvale
 
 2. **Navegue até o diretório do projeto**:
 
