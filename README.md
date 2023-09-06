@@ -43,8 +43,9 @@
 ## <a id="origem-e-especificação-dos-dados"></a>Origem e Especificação dos Dados
 
 <p align="justify">
-  Com o objetivo de quantificar a progressão da COVID-19 em âmbito global, nos foi solicitada uma análise exploratória dos dados. Mapeamos o contágio e avanço da doença mundialmente, classificando os principais países de acordo com critérios como sexo e raça. Além disso, detalhamos as estatísticas por país, separando-as por estados e regiões e destacando os principais eventos em uma linha do tempo.
+   Estaremos utilizando um arquivo Excel proveniente do Kaggle. Você pode acessar e baixar o dataset diretamente a partir deste <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report" target="_blank">link</a>. Os arquivos disponíveis estão no formato Xlsx e devem seguir um layout específico, que está detalhadamente especificado neste documento.
 </p>
+
 
 ## Funcionalidades
 
