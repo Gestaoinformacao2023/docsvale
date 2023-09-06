@@ -122,7 +122,7 @@ Antes de rodar a aplicação, certifique-se de instalar todas as dependências e
 # 🚀 Como rodar a aplicação
 
 1. **Clone o projeto**:
-# git clone https://github.com/Gestaoinformacao2023/docsvale
+### git clone https://github.com/Gestaoinformacao2023/docsvale
 
 2. **Navegue até o diretório do projeto**:
 
