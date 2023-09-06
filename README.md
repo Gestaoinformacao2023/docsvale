@@ -100,7 +100,7 @@ No terminal, clone o projeto:
 1. Abra o terminal ou prompt de comando em sua máquina.
 2. Navegue até o diretório onde deseja clonar o repositório.
 3. Execute o comando:
-git clone https://github.com/Gestaoinformacao2023/docsvale
+###git clone https://github.com/Gestaoinformacao2023/docsvale
 
 ## 🔄 Usando o Git para Versionamento
 
