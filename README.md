@@ -87,98 +87,67 @@ No terminal, clone o projeto:
 [https://github.com/Gestaoinformacao2023/docsvale]
 ```
 
-... 
-<!DOCTYPE html>
-<html lang="en">
+# 🚀 Usando o Git para Clonar e Versionar no GitHub
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git Instructions</title>
-</head>
+**Git** é uma ferramenta essencial de controle de versão distribuído. Ele permite aos desenvolvedores rastrear e gerenciar as mudanças no código ao longo do tempo. Abaixo, detalharei como você pode clonar um projeto e gerenciar seu código usando Git e GitHub.
 
-<body>
+## 🔍 Pré-requisitos
 
-    <h2>🚀 Usando o Git para Clonar e Versionar no GitHub</h2>
+- **Git**: Certifique-se de que o Git esteja instalado em sua máquina. Se não, faça o [download e instale a partir do site oficial](https://git-scm.com/).
 
-    <p><strong>Git</strong> é uma ferramenta essencial de controle de versão distribuído. Ele permite aos desenvolvedores
-        rastrear e gerenciar as mudanças no código ao longo do tempo. Abaixo, detalharei como você pode clonar um
-        projeto e gerenciar seu código usando Git e GitHub.</p>
+## 📥 Como clonar um repositório
 
-    <h3>🔍 Pré-requisitos:</h3>
-    <ul>
-        <li><strong>Git</strong>: Certifique-se de que o Git esteja instalado em sua máquina. Se não, faça o download e
-            instale a partir do <a href="https://git-scm.com/">site oficial</a>.</li>
-    </ul>
+1. Abra o terminal ou prompt de comando em sua máquina.
+2. Navegue até o diretório onde deseja clonar o repositório.
+3. Execute o comando:
 
-    <h3>📥 Como clonar um repositório:</h3>
-    <ol>
-        <li>Abra o terminal ou prompt de comando em sua máquina.</li>
-        <li>Navegue até o diretório onde deseja clonar o repositório.</li>
-        <li>Execute o comando:</li>
-    </ol>
 
-    <pre><code>git clone https://github.com/Gestaoinformacao2023/docsvale</code></pre>
+## 🔄 Usando o Git para Versionamento
 
-    <h3>🔄 Usando o Git para Versionamento:</h3>
-    <ol>
-        <li><strong>git status</strong>: Use esse comando para verificar o status dos seus arquivos.</li>
-        <li><strong>git add [NOME_DO_ARQUIVO/.]</strong>: Use esse comando para adicionar arquivos ao "staging area".
-        </li>
-        <li><strong>git commit -m "Sua mensagem descritiva aqui"</strong>: Crie um novo "commit" com os arquivos.</li>
-        <li><strong>git push</strong>: Envie seus commits para o repositório remoto no GitHub.</li>
-        <li><strong>git pull</strong>: Use esse comando para buscar as últimas alterações do repositório remoto.</li>
-    </ol>
+1. `git status`: Use esse comando para verificar o status dos seus arquivos.
+2. `git add [NOME_DO_ARQUIVO/.]`: Use esse comando para adicionar arquivos ao "staging area".
+3. `git commit -m "Sua mensagem descritiva aqui"`: Crie um novo "commit" com os arquivos.
+4. `git push`: Envie seus commits para o repositório remoto no GitHub.
+5. `git pull`: Use esse comando para buscar as últimas alterações do repositório remoto.
 
-    <h2>🛠️ Dependências e Bibliotecas:</h2>
+# 🛠️ Dependências e Bibliotecas
 
-    <p>Antes de rodar a aplicação, certifique-se de instalar todas as dependências e bibliotecas necessárias.</p>
+Antes de rodar a aplicação, certifique-se de instalar todas as dependências e bibliotecas necessárias.
 
-    <h2>🚀 Como rodar a aplicação:</h2>
-    <ol>
-        <li><strong>Clone o projeto:</strong></li>
-    </ol>
+# 🚀 Como rodar a aplicação
 
-    <pre><code>git clone https://github.com/Gestaoinformacao2023/docsvale</code></pre>
+1. **Clone o projeto**:
 
-    <ol start="2">
-        <li><strong>Navegue até o diretório do projeto:</strong></li>
-    </ol>
 
-    <pre><code>cd [nome-do-diretorio-do-projeto]</code></pre>
+2. **Navegue até o diretório do projeto**:
 
-    <ol start="3">
-        <li><strong>Instale as dependências:</strong></li>
-    </ol>
+cd [nome-do-diretorio-do-projeto]
 
-    <pre><code>npm install</code></pre>
+3. **Instale as dependências**:
 
-    <ol start="4">
-        <li><strong>Execute a aplicação:</strong></li>
-    </ol>
+npm install
 
-    <pre><code>npm start</code></pre>
 
-    <h2>🧪 Como rodar os testes:</h2>
-    <ol>
-        <li><strong>Navegue até o diretório do projeto (se ainda não estiver nele):</strong></li>
-    </ol>
+4. **Execute a aplicação**:
 
-    <pre><code>cd [nome-do-diretorio-do-projeto]</code></pre>
+npm start
 
-    <ol start="2">
-        <li><strong>Execute os testes:</strong></li>
-    </ol>
 
-    <pre><code>npm test</code></pre>
+# 🧪 Como rodar os testes
 
-    <p>Lembre-se: os comandos específicos para rodar a aplicação e os testes podem variar com base na configuração e
-        nas ferramentas usadas no projeto. Certifique-se de consultar a documentação do projeto para obter instruções
-        detalhadas.</p>
+1. **Navegue até o diretório do projeto (se ainda não estiver nele)**:
 
-</body>
+cd [nome-do-diretorio-do-projeto]
 
-</html>
+
+2. **Execute os testes**:
+
+npm test
+
+Lembre-se: os comandos específicos para rodar a aplicação e os testes podem variar com base na configuração e nas ferramentas usadas no projeto. Certifique-se de consultar a documentação do projeto para obter instruções detalhadas.
+
+Agora você pode copiar este conteúdo e colar no README ou qualquer outro arquivo Markdown do GitHub. Ele foi formatado especificamente para se parecer bem no GitHub.
+
 
 
 bash
