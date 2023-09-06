@@ -22,9 +22,13 @@
 
 ### Tópicos 
 :small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação)
+
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
 :small_blue_diamond: [Origem e Especificação dos Dados](#origem-e-especificação-dos-dados)
+
 :small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
 ... 
 
