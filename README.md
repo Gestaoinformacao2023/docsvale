@@ -32,6 +32,8 @@
 :small_blue_diamond: [Ambiente de Desenvolvimento](#ambiente-de-desenvolvimento)
 
 :small_blue_diamond: [Modelo da Arquitetura Sugerida](#modelo-da-arquitetura-sugerida)
+
+:small_blue_diamond: [Dicionário de Dados](#dicionario-de-dados)
 ... 
 
 ## Layout da Aplicação
@@ -72,9 +74,13 @@
 
 <p align="justify">
 <img width="414" alt="image" src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/21b43255-daa7-4dd8-b0f7-7cc52455449e">
-
 </p>
 
+## <a id="dicionario-de-dados"></a>Dicionário de Dados
+
+<p align="justify">
+<img width="415" alt="image" src="https://github.com/Gestaoinformacao2023/docsvale/assets/144237804/2206e88e-2be2-4968-850b-693c9674f47f">
+</p>
 
 
 
