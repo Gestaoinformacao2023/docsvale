@@ -157,7 +157,7 @@ Agora você pode copiar este conteúdo e colar no README ou qualquer outro arqui
 
 bash
 Copy code
-cd [nome-do-diretorio-do-projeto]
+### cd [nome-do-diretorio-do-projeto]
 Execute os testes:
 
 bash
